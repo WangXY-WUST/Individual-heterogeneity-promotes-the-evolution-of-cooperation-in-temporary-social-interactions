@@ -6,3 +6,5 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+!0fig_202307.ipynb
+!0main-202307-temp.ipynb
